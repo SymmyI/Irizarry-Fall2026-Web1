@@ -1,0 +1,76 @@
+body {
+    background-color: rgb(32, 188, 71);
+    color: rgb(238, 64, 64)
+}
+
+h1 {
+    font-family:  "Cinzel", serif;
+  font-optical-sizing: auto;
+  font-weight: <weight>;
+  font-style: normal;
+  
+}
+
+
+
+h2 {
+  font-family: "Astloch", system-ui;
+  font-weight: 700;
+  font-style: normal;
+   color: rgba(201, 101, 25, 0.897)
+}
+
+
+h3 {
+  
+  font-family: "Bungee Shade", sans-serif;
+  font-weight: 400;
+  font-style: normal;
+
+
+}
+
+
+h4 {
+  
+  font-family: "Rubik Broken Fax", system-ui;
+  font-weight: 400;
+  font-style: normal;
+   color: rgb(248, 108, 0)
+
+
+}
+
+
+
+/*descendant selects*/
+
+
+/*links in nav bar*/
+
+
+/* <h2>Leo Castañeda</h2>
+        <h3><a href="https://whitney.org/exhibitions/camoflux-recall-grotto" target="_blank">Camoflux Recall Grotto</a></h3>
+        <h4>2026</h4> */
+nav a {
+    color: rgb(255, 200, 0);
+}
+
+main a {
+    color:deeppink
+}
+
+main {
+    text-align: center;
+}
+
+ h2,
+h3,
+ h4 {
+    margin: 20px 0;
+}
+
+main hr {
+    width: 50%;
+    margin: 25px auto;
+}
